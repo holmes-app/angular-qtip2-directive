@@ -4,6 +4,6 @@
   "main": "qtip2.js",
   "dependencies": {
     "jquery": "~2.0.3",
-    "qtip2": "~2.2.0"
+    "qtip2": "https://github.com/marcelometal/bower.git#85143324e4b175a8d28379d703bbe50768302bfb"
   }
 }
